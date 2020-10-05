@@ -17,6 +17,7 @@
   - [@wraikny](#wraikny)
 - [エンジニア (業務委託)](#エンジニア-業務委託)
   - [@kdxu](#kdxu)
+  - [@whywaita](#whywaita)
 - [その他開発チームのメンバー](#その他開発チームのメンバー)
   - [@NaoyaMotoki](#NaoyaMotoki) (プロダクトマネージャー)
   - [@o-kwr](#o-kwr) (UI/UX デザイナー)
@@ -185,6 +186,15 @@ Haskell 好きが高じて 2020 年 8 月より HERP 参画。
 お茶の水女子大学大学院人間文化創成科学研究科卒業後、諸々を経て 2020 年 8 月から HERP のお手伝いとして参加。
 HERP では Haskell / TypeScript を書いたり概念として偏在している。
 OCaml と Erlang が好き。
+
+### [@whywaita](https://github.com/whywaita)
+
+![@whywaita](https://avatars.githubusercontent.com/u/4568341?s=96)
+
+エンジニア
+
+2018 年 6 月から HERP にインターンとして参加し、その後業務委託として参加。
+HERP では Kubernetes を始めとしてインフラ面のお手伝いをしている。
 
 ## その他開発チームのメンバー
 
